@@ -1,0 +1,22 @@
+{
+    "name": "Gestion de produits",
+    "short_name": "GCM",
+    "description": "Application de gestion de produits",
+    "icons": [{
+      "src": "logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "logo192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "logo512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+    "start_url": "./?homescreen=1",
+    "display": "standalone",
+    "background_color": "#f8f8f8",
+    "theme_color": "#343a40"
+  }
